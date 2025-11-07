@@ -15,10 +15,10 @@ This project uses AI algorithms for real-time detection and automated notificati
 ## Images
 
 ### Device Photo
-![Device Photo](c:\Users\ASUS\Downloads\Device-photo.jpg)
+![Device Photo](Images/Device-overview.jpg)
 
 ### Meeting with VC
-![Meeting with VC](c:\Users\ASUS\Downloads\Meeting-with-vc.jpg)
+![Meeting with VC](Images/Device-photo.jpg)
 
 ### System Overview
-![System Overview](c:\Users\ASUS\Downloads\Device-overview.jpg)
+![System Overview](Images/Meeting-with-vc.jpg)
