@@ -15,10 +15,10 @@ This project uses AI algorithms for real-time detection and automated notificati
 ## Images
 
 ### Device Photo
-![Device Photo](Images/Device-overview.jpg)
+![Device Photo](Images/Device-photo.jpg)
 
 ### Meeting with VC
-![Meeting with VC](Images/Device-photo.jpg)
+![Meeting with VC](Images/Meeting-with-vc.jpg)
 
 ### System Overview
-![System Overview](Images/Meeting-with-vc.jpg)
+![System Overview](Images/Device-overview.jpg)
